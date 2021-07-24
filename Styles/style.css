@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Otomanopee+One&family=Roboto:wght@300&display=swap');
+
+
+body{
+    background: black;
+    text-align: justify;
+    font-family: 'Roboto', sans-serif;;
+}
+
+header{
+    z-index: 100;
+    font-family: 'Otomanopee One', sans-serif;
+}
+
+main{
+    margin: auto 80px auto 80px;
+}
+
+.introduccion, .origenes{
+    margin: auto 100px auto 100px;
+    font-family: 'Lato', sans-serif;;
+}
+
+#titulo{
+    font-family:'Otomanopee One', sans-serif; 
+    
+}
+
+.btn{
+    font-family:'Otomanopee One', sans-serif; 
+}
+
+.form-control{
+    font-family:'Otomanopee One', sans-serif; 
+    text-align: center;
+    
+}
+
+footer{
+    font-family:'Otomanopee One', sans-serif; 
+}
